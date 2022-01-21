@@ -1,7 +1,7 @@
 .signature-pad{
+    cursor: url(../img/pencil-solid-24.png) 0 20, auto;
     background-color: #fff;
+    display: block;
     border: 1px dashed black; 
-    width: 1011px;
-    height: 267px; 
     border-radius: 12px;
 }
